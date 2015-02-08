@@ -1,0 +1,26 @@
+{
+  "name": "hivemind",
+  "version": "0.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "test.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ghostal/hivemind.git"
+  },
+  "keywords": [
+    "irc"
+  ],
+  "author": "ghostal",
+  "license": "Apache",
+  "bugs": {
+    "url": "https://github.com/ghostal/hivemind/issues"
+  },
+  "dependencies": {
+    "gulp": "~3.8.10",
+    "gulp-nodemon": "~1.0.5"
+  }
+}
